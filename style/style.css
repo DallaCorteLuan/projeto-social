@@ -44,6 +44,7 @@ iframe#tela {
 
 section#menu {
     text-align: right;
+    margin-right: 15px;
 }
 
 section#menu img {
